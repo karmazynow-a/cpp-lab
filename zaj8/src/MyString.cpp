@@ -20,7 +20,7 @@ void MyString::setStr(const char* newStr){
 	m_size = strlen(newStr);
 	m_str = new char [m_size + 1];
 	strcpy(m_str, newStr);
-	m_str [m_size + 1] = '\0';	
+	m_str [m_size] = '\0';	
 }
 
 char *MyString::str() const{
