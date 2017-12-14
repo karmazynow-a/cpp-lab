@@ -41,7 +41,7 @@ void MyString::join (const MyString & secStr){
 	delStr();
 	m_str = new char [m_size + secStr.m_size + 1];
 	strcpy(m_str, newStr);
-	newStr[m_size + secStr.m_size +1] = '\0';
+	newStr[m_size + secStr.m_size] = '\0';
 	delete [] newStr;
 }
 
