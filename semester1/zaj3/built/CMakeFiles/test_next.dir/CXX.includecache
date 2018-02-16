@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stud2016/6poreba/ppo/zaj3/src/strop.cpp
+strop.h
+/home/stud2016/6poreba/ppo/zaj3/src/strop.h
+cstring
+-
+
+/home/stud2016/6poreba/ppo/zaj3/src/strop.h
+
+/home/stud2016/6poreba/ppo/zaj3/src/test_next.cpp
+iostream
+-
+strop.h
+/home/stud2016/6poreba/ppo/zaj3/src/strop.h
+

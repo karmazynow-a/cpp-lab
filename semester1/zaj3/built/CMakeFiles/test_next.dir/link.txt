@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test_next.dir/test_next.cpp.o CMakeFiles/test_next.dir/strop.cpp.o  -o test_next -rdynamic 
