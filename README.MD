@@ -1,0 +1,1 @@
+Solutions for C++ classes
